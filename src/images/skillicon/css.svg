@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="72" viewBox="0 0 64 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_88" data-name="長方形 88" width="64" height="72" transform="translate(0 0.171)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_3" data-name="マスクグループ 3" transform="translate(0 -0.171)" clip-path="url(#clip-path)">
+    <g id="css-icon" transform="translate(-0.075 0)">
+      <path id="パス_75" data-name="パス 75" d="M15.177,69.945,9.4,5.143H72.885L67.1,69.935l-26,7.208Z" transform="translate(-9.401 -5.143)" fill="#1572b6"/>
+      <path id="パス_76" data-name="パス 76" d="M41.143,71.635l21.009-5.824,4.942-55.368H41.143Z" transform="translate(-9.401 -5.143)" fill="#33a9dc"/>
+      <path id="パス_77" data-name="パス 77" d="M41.143,33.92H51.66l.725-8.139H41.143V17.833H61.071l-.19,2.132-1.952,21.9H41.143Z" transform="translate(-9.401 -5.143)" fill="#fff"/>
+      <path id="パス_78" data-name="パス 78" d="M41.192,54.561l-.036.01L32.3,52.179l-.566-6.339H23.76L24.873,58.32l16.28,4.521.039-.01Z" transform="translate(-9.401 -5.143)" fill="#ebebeb"/>
+      <path id="パス_79" data-name="パス 79" d="M50.984,41.531l-.957,10.643-8.864,2.391v8.27L57.456,58.32l.121-1.342,1.381-15.447Z" transform="translate(-9.401 -5.143)" fill="#fff"/>
+      <path id="パス_80" data-name="パス 80" d="M41.171,17.833v7.948h-19.2l-.159-1.787-.363-4.029-.19-2.132Z" transform="translate(-9.401 -5.143)" fill="#ebebeb"/>
+      <path id="パス_81" data-name="パス 81" d="M41.143,33.92v7.948H32.4l-.159-1.787-.36-4.029-.19-2.132Z" transform="translate(-9.401 -5.143)" fill="#ebebeb"/>
+    </g>
+  </g>
+</svg>

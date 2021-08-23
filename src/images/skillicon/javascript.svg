@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="72" viewBox="0 0 64 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_88" data-name="長方形 88" width="64" height="72" transform="translate(0 0.171)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_4" data-name="マスクグループ 4" transform="translate(0 -0.171)" clip-path="url(#clip-path)">
+    <g id="js-icon" transform="translate(0 4)">
+      <rect id="長方形_89" data-name="長方形 89" width="64" height="64" rx="9.6" transform="translate(0 0.171)" fill="#f7df1e"/>
+      <path id="パス_82" data-name="パス 82" d="M40.5,46.25a6.463,6.463,0,0,0,5.875,3.625c2.5,0,4.125-1.25,4.125-3,0-2-1.625-2.75-4.375-4l-1.5-.625c-4.375-1.875-7.25-4.125-7.25-9,0-4.5,3.375-8,8.75-8,3.875,0,6.625,1.375,8.5,4.875l-4.625,3C49,31.25,47.875,30.5,46.125,30.5a2.633,2.633,0,0,0-2.875,2.625c0,1.75,1.125,2.5,3.75,3.625l1.5.625c5.125,2.25,8,4.375,8,9.5,0,5.375-4.25,8.375-10,8.375-5.625,0-9.25-2.625-11-6.125Zm-21.25.5c1,1.625,1.75,3.125,3.875,3.125,2,0,3.25-.75,3.25-3.75V25.375h6v20.5c0,6.25-3.625,9-9,9-4.875,0-7.625-2.5-9-5.5Z"/>
+    </g>
+  </g>
+</svg>

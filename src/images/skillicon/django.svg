@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="72" viewBox="0 0 64 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_88" data-name="長方形 88" width="64" height="72" transform="translate(0 -0.116)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_9" data-name="マスクグループ 9" transform="translate(0 0.116)" clip-path="url(#clip-path)">
+    <g id="django-icon" transform="translate(3.785 0)">
+      <path id="パス_87" data-name="パス 87" d="M42.4,12H54.3V66.507a78.654,78.654,0,0,1-15.429,1.605c-14.526-.015-22.086-6.5-22.086-18.966,0-12,8.019-19.8,20.448-19.8a19.344,19.344,0,0,1,5.172.6Zm0,27.426a11.976,11.976,0,0,0-4.011-.6c-6,0-9.489,3.669-9.489,10.1,0,6.261,3.321,9.717,9.414,9.717a28.042,28.042,0,0,0,4.08-.3l.006-18.9Z" transform="translate(-16.785 -12)" fill="#44b78b"/>
+      <path id="パス_88" data-name="パス 88" d="M73.2,30.177v27.3c0,9.4-.705,13.917-2.769,17.814A18.948,18.948,0,0,1,60.711,84L49.677,78.8A17.124,17.124,0,0,0,59.1,70.914c1.7-3.363,2.235-7.26,2.235-17.511V30.177Z" transform="translate(-16.785 -12)" fill="#44b78b"/>
+      <rect id="長方形_90" data-name="長方形 90" width="11.892" height="12.084" transform="translate(44.538 0.06)" fill="#44b78b"/>
+    </g>
+  </g>
+</svg>
